@@ -1,0 +1,14 @@
+{
+  "name": "malina-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "malinajs": "^0.6.52",
+    "malinajs-unplugin": "^0.0.13",
+    "vite": "^2.6.0"
+  }
+}
