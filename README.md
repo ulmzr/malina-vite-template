@@ -1,2 +1,2 @@
-# malina-vite-template
+# Malina Vite Template
 Malina template using vite
